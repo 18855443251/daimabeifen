@@ -1,0 +1,16 @@
+{
+    "$schema": "layout_schema.json",
+    "data": [{
+        "type": "AD",
+        "url": "tab_business/ad.json",
+        "name": "广告"
+    }, {
+        "type": "NOTICE", 
+        "url": "tab_business/notice.json",
+        "name": "公告"
+    }, {
+        "type": "MENU",
+        "url": "./json/tab_business/menu.json",
+        "name": "菜单"
+    }]
+}

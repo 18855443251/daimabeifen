@@ -1,0 +1,29 @@
+{
+  "$schema": "hot_fund_schema.json",
+  "data": [
+    {
+      "name": "博时互联网主题灵活配置混合型证券投资",
+      "type": "高风险 混合型",
+      "rate": 5.5,
+      "year": 3,
+      "item": null,
+      "ishot": "no"
+    },
+    {
+      "name": "博时灵活配置混合型证券投资",
+      "type": "中高风险 稳健型",
+      "rate": 5.45,
+      "year": 6,
+      "item": null,
+      "ishot": "no"
+    },
+    {
+      "name": "博时灵活配置货币型证券投资",
+      "type": "低风险 稳健型",
+      "rate": 5.35,
+      "year": 6,
+      "item": null,
+      "ishot": "yes"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "layout_schema.json",
+  "data": [
+    {
+      "type": "TITLE",
+      "url": "tab_home_color/titlebar/titlebarLabor.json",
+      "name": "标题"
+    },
+    {
+      "type": "HOTMENU",
+      "url": "tab_home_color/hotmenu/hotmenuLabor.json",
+      "name": "热门菜单"
+    },
+    {
+      "type": "MENU",
+      "url": "tab_home_color/menu/menuLabor.json",
+      "name": "菜单"
+    },
+    {
+      "type": "NOTICE",
+      "url": "tab_home_color/notice/noticeLabor.json",
+      "name": "公告"
+    },
+    {
+      "type": "RATE",
+      "url": "tab_home_color/rate/rateLabor.json",
+      "name": "利率"
+    },
+    {
+      "type": "AD",
+      "url": "tab_home/ad.json",
+      "name": "广告"
+    },
+    {
+      "type": "HOTFINANCE",
+      "url": "tab_home/hotfinance.json",
+      "name": "特色理财"
+    },
+    {
+      "type": "NEARNETWORK",
+      "url": "tab_home/nearnetwork.json",
+      "name": "附近网点"
+    }
+  ]
+}

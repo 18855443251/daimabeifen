@@ -1,0 +1,29 @@
+{
+  "$schema": "menu_schema.json",
+  "data": {
+    "menuList": [
+      {
+        "url": "main.finance",
+        "name": "我要理财", 
+        "src": "./imgs/tab_finance/menu/my_finance.png"
+      },
+      {
+        "url": "main.financeproduct",
+        "name": "锦鲤宝",
+        "src": "./imgs/tab_finance/menu/jialibao.png",
+        "isNotRecord": true
+      },
+      {
+        "url": "main.deposits",
+        "name": "我要存款",
+        "src": "./imgs/tab_finance/menu/my_deposit.png"
+      },
+      {
+        "url": "main.fund",
+        "name": "买点基金",
+        "src": "./imgs/tab_finance/menu/my_fund.png"
+      }
+    ],
+    "columns": 4
+  }
+}

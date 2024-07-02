@@ -1,0 +1,251 @@
+{
+  "$schema": "search_schema.json",
+  "data": [
+    {
+      "name": "账户余额",
+      "url": "main.AccountQuery",
+      "key": "账户余额|zhanghuyue|zhye",
+      "platform": "all"
+    },
+    {
+      "name": "交易明细",
+      "url": "main.transactionDetails",
+      "key": "交易明细|jiaoyimingxi|jymx",
+      "platform": "all"
+    },
+    {
+      "name": "定期账户",
+      "url": "main.regular",
+      "key": "定期账户|dingqizhanghu|dqzh",
+      "platform": "all"
+    },
+    {
+      "name": "贷款账户",
+      "url": "main.loan",
+      "key": "贷款账户|daikuanzhanghu|dkzh",
+      "platform": "all"
+    },
+    {
+      "name": "资产总览",
+      "url": "main.property",
+      "key": "资产总览|zichanzonglan|zczl",
+      "platform": "all"
+    },
+    {
+      "name": "企业名片",
+      "url": "main.enterprisesCard",
+      "key": "企业名片|qiyemingpian|qymp",
+      "platform": "all"
+    },
+    {
+      "name": "转账主页",
+      "url": "main.Transfer",
+      "key": "转账主页|zhuanzhangzhuye|zzzy",
+      "platform": "all"
+    },
+    {
+      "name": "账号转账",
+      "url": "main.PayerInfo",
+      "key": "账号转账|zhanghaozhuanzhang|zhzz",
+      "platform": "all"
+    },
+    {
+      "name": "转账记录查询",
+      "url": "main.RecordList",
+      "key": "转账记录查询|zhuanzhangjiluchaxun|zzjlcx",
+      "platform": "all"
+    },
+    {
+      "name": "收款人名册",
+      "url": "main.transferBook",
+      "key": "收款人名册|shoukuanrenmingce|skrmc",
+      "platform": "all"
+    },
+    {
+      "name": "扫一扫转账",
+      "url": "saoyisao",
+      "key": "扫一扫转账|saoyisaozhuanzhang|syszz",
+      "platform": "all"
+    },
+    {
+      "name": "代发工资",
+      "url": "main.payroll",
+      "key": "代发工资|daifagongzi|dfgz",
+      "platform": "all"
+    },
+    {
+      "name": "代发工资查询",
+      "url": "main.myquery",
+      "key": "代发工资查询|daifagongzichaxun|dfgzcx",
+      "platform": "all"
+    },
+    {
+      "name": "代发名册",
+      "url": "main.myPayrollRegister",
+      "key": "代发名册|daifamingce|dfmc",
+      "platform": "all"
+    },
+    {
+      "name": "银企对账",
+      "url": "main.reconciliation",
+      "key": "银企对账|yinqiduizhang|yqdz",
+      "platform": "all"
+    },
+    {
+      "name": "已对账查询",
+      "url": "main.alreadyReconciliation",
+      "key": "已对账查询|yiduizhangchaxun|ydzcx",
+      "platform": "all"
+    },
+    {
+      "name": "持票查询",
+      "url": "main.ticketEnquiry",
+      "key": "持票查询|chipiaochaxun|cpcx",
+      "platform": "all"
+    },
+    {
+      "name": "票据流转查询",
+      "url": "main.flowEnquiry",
+      "key": "票据流转查询|piaojuliuzhuanchaxun|pjlzcx",
+      "platform": "all"
+    },
+    {
+      "name": "提示收票",
+      "url": "main.electronicBills",
+      "key": "提示收票|tishipiaoju|tspj",
+      "platform": "all"
+    },
+    {
+      "name": "背书转让",
+      "url": "main.transfer",
+      "key": "背书转让|beishuzhuanrang|bszr",
+      "platform": "all"
+    },
+    {
+      "name": "贴现",
+      "url": "main.discount",
+      "key": "贴现|tiexian|tx",
+      "platform": "all"
+    },
+    {
+      "name": "实时结汇",
+      "url": "main.actualExchange",
+      "key": "实时结汇|shishijiehui|ssjh",
+      "platform": "all"
+    },
+    {
+      "name": "业务综合查询",
+      "url": "main.integratedQuery",
+      "key": "业务综合查询|yewuzonghechaxun|ywzhcx",
+      "platform": "all"
+    },
+    {
+      "name": "登录密码修改",
+      "url": "main.ModifyPwd",
+      "key": "登录密码修改|denglumimaxiugai|dlmmxg",
+      "platform": "all"
+    },
+    {
+      "name": "指纹登录",
+      "url": "main.securitySetting",
+      "key": "指纹登录|zhiwendenglu|zwdl",
+      "platform": "all"
+    },
+    {
+      "name": "登录记录查询",
+      "url": "main.loginlog",
+      "key": "登录记录查询|denglujiluchaxun|dljlcx",
+      "platform": "all"
+    },
+    {
+      "name": "云盾管理",
+      "url": "main.securitySetting",
+      "key": "云盾管理|yundunguanli|ydgl",
+      "platform": "all"
+    },
+    {
+      "name": "账号保护",
+      "url": "main.securitySetting",
+      "key": "账号保护|zhanghaobaohu|zhbh",
+      "platform": "no"
+    },
+    {
+      "name": "预约购买支票",
+      "url": "main.ReservationPurchaseCheckBuy",
+      "key": "预约购买支票|yuyuegoumaizhipiao|yygmzp",
+      "platform": "all"
+    },
+    {
+      "name": "预约购票查询",
+      "url": "main.ReservationPurchaseCheckQuery",
+      "key": "预约购票查询|yuyuegoupiaochaxun|yygpcx",
+      "platform": "all"
+    },
+    {
+      "name": "网点预约",
+      "url": "main.dotReservation",
+      "key": "网点预约|wangdianyuyue|wdyy",
+      "platform": "all"
+    },
+    {
+      "name": "附近网点/ATM",
+      "url": "main.srroundAmap",
+      "key": "附近网点|fujinwangdian|fjwd",
+      "platform": "all"
+    },
+    {
+      "name": "网点查询",
+      "url": "main.NetworkQuery",
+      "key": "网点查询|wangdianchaxun|wdcx",
+      "platform": "all"
+    },
+    {
+      "name": "银行公告",
+      "url": "main.bankNotice",
+      "key": "银行公告|yinhanggonggao|yhgg",
+      "platform": "all"
+    },
+    {
+      "name": "存款利率",
+      "url": "main.deposit",
+      "key": "存款利率|cunkuanlilv|ckll",
+      "platform": "all"
+    },
+    {
+      "name": "外汇牌价",
+      "url": "main.foreignExchangeRate",
+      "key": "外汇牌价|waihuipaijia|whpj",
+      "platform": "all"
+    },
+    {
+      "name": "操作员信息",
+      "url": "main.operatorInfo",
+      "key": "操作员信息|caozuoyuanxinxi|czyxx",
+      "platform": "all"
+    },
+    {
+      "name": "存款计算器",
+      "url": "main.depositCalculator",
+      "key": "存款计算器|cunkuanjisuanqi|ckjsq",
+      "platform": "all"
+    },
+    {
+      "name": "贷款计算器",
+      "url": "main.loanCalculator",
+      "key": "贷款计算器|daikuanjisuanqi|dkjsq",
+      "platform": "all"
+    },   
+    {
+      "name": "行号查询",
+      "url": "main.bankSearch",
+      "key": "行号查询|hanghaochaxun|hhcx",
+      "platform": "all"
+    },
+    {
+      "name": "关于APP",
+      "url": "main.aboutApp",
+      "key": "关于APP|guanyuapp|gyapp",
+      "platform": "all"
+    }    
+  ]
+}

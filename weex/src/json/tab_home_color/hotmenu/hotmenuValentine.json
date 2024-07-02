@@ -1,0 +1,34 @@
+{
+  "$schema": "menu_schema.json",
+  "data": {
+    "menuList": [
+      {
+        "name": "转账汇款",
+        "url": "",
+        "src": "./imgs/tab_home/hotmenu/transfer@3x.png"
+      },
+      {
+        "name": "扫一扫",
+        "url": "",
+        "src": "./imgs/tab_home/hotmenu/qrcode@3x.png"
+      },
+      {
+        "name": "账户余额",
+        "url": "main.AccountQuery",
+        "src": "./imgs/tab_home/hotmenu/account@3x.png"
+      },
+      {
+        "name": "银企对账",
+        "url": "main.reconciliation",
+        "src": "./imgs/tab_home/hotmenu/company@3x.png"
+      }
+    ],
+    "bgImg": "./imgs/tab_home_color/hotmenu/valentine/bg.png",
+    "columns": "4",
+    "fontColor": "#d65875",
+    "imgSize": {
+      "imgWidth": "70",
+      "imgHeight": "70"
+    }
+  }
+}

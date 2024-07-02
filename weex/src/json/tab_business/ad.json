@@ -1,0 +1,25 @@
+{
+  "$schema": "ad_schema.json",
+  "data": [
+    {
+      "name": "1",
+      "src": "./imgs/tab_business/ad/banner1.png",
+      "url": ""
+    },
+    {
+      "name": "2",
+      "src": "./imgs/tab_business/ad/banner2.png",
+      "url": ""
+    },
+    {
+      "name": "3",
+      "src": "./imgs/tab_business/ad/banner3.png",
+      "url": ""
+    },
+    {
+      "name": "4",
+      "src": "./imgs/tab_business/ad/banner4.png",
+      "url": ""
+    }
+  ]
+}

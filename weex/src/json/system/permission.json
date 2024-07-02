@@ -1,0 +1,325 @@
+{
+  "$schema": "permission_schema.json",
+  "data": [
+    {
+      "name": "我的账户",
+      "url": "main.myaccount",
+      "auth": "BER"
+    },
+    {
+      "name": "借记账户",
+      "url": "main.myaccount?flag=0",
+      "auth": "BER"
+    },
+    {
+      "name": "信用账户",
+      "url": "main.myaccount?flag=1",
+      "auth": "BER"
+    },
+    {
+      "name": "他行账户",
+      "url": "main.myaccount?flag=2",
+      "auth": "BE"
+    },
+    {
+      "name": "一键开户",
+      "url": "main.myAccountOpen",
+      "auth": "B"
+    },
+    {
+      "name": "交易明细",
+      "url": "main.transactionDetails",
+      "auth": "BER"
+    },
+    {
+      "name": "转账汇款",
+      "url": "main.bankinnertrans",
+      "auth": "BER"
+    },
+    {
+      "name": "转账",
+      "url": "main.bankinnertrans",
+      "auth": "BR"
+    },
+    {
+      "name": "收款人名册",
+      "url": "main.transferBook",
+      "auth": "BER"
+    },
+    {
+      "name": "转入记录",
+      "url": "main.transferin",
+      "auth": "BER"
+    },
+    {
+      "name": "转出记录",
+      "url": "main.transferout",
+      "auth": "BER"
+    },
+    {
+      "name": "跨行转入",
+      "url": "main.hisTransfer",
+      "auth": "BE"
+    },
+    {
+      "name": "资金归集",
+      "url": "main.cashsweep",
+      "auth": "B"
+    },
+    {
+      "name": "付款码",
+      "url": "main.paymentCode",
+      "auth": "BE"
+    },
+    {
+      "name": "收款码",
+      "url": "main.gatheringCode",
+      "auth": "BE"
+    },
+    {
+      "name": "二维码取款",
+      "url": "main.twoCollect",
+      "auth": "BE"
+    },
+    {
+      "name": "信用卡账单",
+      "url": "main.creditBill",
+      "auth": "BER"
+    },
+    {
+      "name": "立即还款",
+      "url": "main.CreditRepayment",
+      "auth": "BER"
+    },
+    {
+      "name": "现金分期",
+      "url": "main.creditMoneyStages",
+      "auth": "BE"
+    },
+    {
+      "name": "账单分期",
+      "url": "main.creditStages",
+      "auth": "BE"
+    },
+    {
+      "name": "限额设置",
+      "url": "main.limit",
+      "auth": "BE"
+    },
+    {
+      "name": "生活缴费",
+      "url": "main.lifepay",
+      "auth": "BE"
+    },
+    {
+      "name": "医院挂号",
+      "url": "main.hospital",
+      "auth": "BER"
+    },
+    {
+      "name": "社保缴费",
+      "url": "main.socialpay",
+      "auth": "BE"
+    },
+    {
+      "name": "风险评估",
+      "url": "main.riskrating",
+      "auth": "BER"
+    },
+    {
+      "name": "我的理财",
+      "url": "main.minefinancial",
+      "auth": "BER"
+    },
+    {
+      "name": "加利宝",
+      "url": "main.moreinterestpro",
+      "auth": "BER"
+    },
+    {
+      "name": "三方存管",
+      "url": "main.threepartydepository",
+      "auth": "BR"
+    },
+    {
+      "name": "云闪付",
+      "url": "main.cloudflashpay",
+      "auth": "BE"
+    },
+    {
+      "name": "云盾管理",
+      "url": "main.securitySetting",
+      "auth": "BE"
+    },
+    {
+      "name": "安全锁",
+      "url": "main.securitylock",
+      "auth": "BER"
+    },
+    {
+      "name": "公积金查询",
+      "url": "main.accumulationsearch",
+      "auth": "BER"
+    },
+    {
+      "name": "社保查询",
+      "url": "main.socialsearch",
+      "auth": "BER"
+    },
+    {
+      "name": "财富总览",
+      "url": "main.wealthView",
+      "auth": "BER"
+    },
+    {
+      "name": "我的积分",
+      "url": "main.creditIntegral",
+      "auth": "BRE"
+    },
+    {
+      "name": "我的基金",
+      "url": "/MyFund",
+      "auth": "BER"
+    },
+    {
+      "name": "我的基金",
+      "url": "main.MyFund",
+      "auth": "BER"
+    },
+    {
+      "name": "基金开户",
+      "url": "/fundOpenAccount",
+      "auth": "BER"
+    },
+    {
+      "name": "基金购买",
+      "url": "/fundBuy",
+      "auth": "BER"
+    },
+    {
+      "name": "基金定投",
+      "url": "/fixInvestAdd",
+      "auth": "BER"
+    },
+    {
+      "name": "基金收藏",
+      "url": "/myCollectionList",
+      "auth": "BER"
+    },
+    {
+      "name": "电信充值",
+      "url": "main.payTelecom",
+      "auth": "EB"
+    },
+    {
+      "name": "预留信息",
+      "url": "main.reserveMsg",
+      "auth": "BER"
+    },
+    {
+      "name": "我的网点预约",
+      "url": "/dotReservation",
+      "auth": "BER"
+    },
+    {
+      "name": "我的定期",
+      "url": "main.deposits?bgBol=1",
+      "auth": "BER"
+    },
+    {
+      "name": "个人信息",
+      "url": "main.userinfo",
+      "auth": "BER"
+    },
+    {
+      "name": "大额存单首页",
+      "url": "main.depositCertificate",
+      "auth": "BER"
+    },
+    {
+      "name": "超级定存",
+      "url": "main.depositSuper",
+      "auth": "BER"
+    },
+    {
+      "name": "大额存单购买",
+      "url": "main.depositCerBuy",
+      "auth": "BER"
+    },
+    {
+      "name": "超级定存购买",
+      "url": "main.depositSuperBuy",
+      "auth": "BER"
+    },
+    {
+      "name": "投资总览",
+      "url": "main.investView",
+      "auth": "BER"
+    },
+    {
+      "name": "我的资产",
+      "url": "main.assetView",
+      "auth": "BER"
+    },
+    {
+      "name": "申请进度",
+      "url": "main.loanProcess",
+      "auth": "BE"
+    },
+    {
+      "name": "我要借款",
+      "url": "main.loanBorrow",
+      "auth": "BE"
+    },
+    {
+      "name": "贷款申请",
+      "url": "main.loanApply",
+      "auth": "BE"
+    },
+    {
+      "name": "我的贷款",
+      "url": "main.loanMy",
+      "auth": "BE"
+    },
+    {
+      "name": "人脸取款",
+      "url": "main.facewithDrawals",
+      "auth": "B"
+    },
+	{
+      "name": "跨行收款",
+      "url": "main.beyondpay",
+      "auth": "B"
+    },
+    {
+      "name": "手机号转账",
+      "url": "main.phonetransfer",
+      "auth": "B"
+    },
+	{
+      "name": "我要贷款",
+      "url": "main.loanAccept",
+      "auth": "REB"
+    },
+	{
+      "name": "诚e金",
+      "url": "main.ensure",
+      "auth": "B"
+    },
+	{
+      "name": "客户信息维护",
+      "url": "main.mineFundInfo",
+      "auth": "B"
+    },
+	{
+      "name": "",
+      "url": "main.bankcommdepository",
+      "auth": "BR"
+    },
+	{
+      "name": "我的存款证明",
+      "url": "main.mineCertification",
+      "auth": "B"
+    }
+  ]
+}

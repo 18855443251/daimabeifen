@@ -1,0 +1,28 @@
+{
+  "$schema": "menu_schema.json",
+  "data": {
+    "columns": "4",
+    "menuList": [
+      {
+        "name": "转账汇款",
+        "url": "main.Transfer",
+        "src": "./imgs/tab_home/hotmenu/transfer@3x.png"
+      },
+      {
+        "name": "扫一扫",
+        "url": "saoyisao",
+        "src": "./imgs/tab_home/hotmenu/qrcode@3x.png"
+      },
+      {
+        "name": "账户余额",
+        "url": "main.AccountQuery",
+        "src": "./imgs/tab_home/hotmenu/account@3x.png"
+      },
+      {
+        "name": "银企对账",
+        "url": "main.reconciliation",
+        "src": "./imgs/tab_home/hotmenu/company@3x.png"
+      }
+    ]
+  }
+}

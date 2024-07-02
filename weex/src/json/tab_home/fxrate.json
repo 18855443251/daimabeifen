@@ -1,0 +1,35 @@
+{
+  "$schema": "fxrate_schema.json",
+  "data": {
+    "fxRateList": [
+      {
+        "CurrencyName": "美元",
+        "Currency":"USD",
+        "Saleprice": "709.31",
+        "Rbuyprice": "717.36",
+        "imgurl": "./imgs/tab_home/fxrate/usd@3x.png"
+      },
+      {
+        "CurrencyName": "日元",
+        "Currency":"JPY",
+        "Saleprice": "709.31",
+        "Rbuyprice": "717.36",
+        "imgurl": "./imgs/tab_home/fxrate/jpy@3x.png"
+      },
+      {
+        "CurrencyName": "欧元",
+        "Currency":"EUR",
+        "Saleprice": "709.31",
+        "Rbuyprice": "717.36",
+        "imgurl": "./imgs/tab_home/fxrate/eur@3x.png"
+      },
+      {
+        "CurrencyName": "英镑",
+        "Currency":"GBP",
+        "Saleprice": "709.31",
+        "Rbuyprice": "717.36",
+        "imgurl": "./imgs/tab_home/fxrate/gbp@3x.png"
+      }
+    ]
+  }
+}

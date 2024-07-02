@@ -1,0 +1,33 @@
+{
+  "$schema": "tab_schema.json",
+  "data": {
+    "selectedColor": "#2977bf",
+    "unselectedColor": "#999999",
+    "tabs": [
+      {
+        "index": "0",
+        "title": "首页",
+        "image": "./imgs/launcher/blue/home_nor@3x.png",
+        "selectedImage": "./imgs/launcher/blue/home_sel2.png",
+        "src": "index.weex.js?Page=Tab_home",
+        "visibility": "visible"
+      },
+      {
+        "index": "1",
+        "title": "工作台",
+        "image": "./imgs/launcher/blue/work_nor@3x.png",
+        "selectedImage": "./imgs/launcher/blue/work_sel2.png",
+        "src": "index.weex.js?Page=Tab_bench",
+        "visibility": "hidden"
+      },
+      {
+        "index": "2",
+        "title": "我的",
+        "image": "./imgs/launcher/blue/user_nor@3x.png",
+        "selectedImage": "./imgs/launcher/blue/user_sel2.png",
+        "src": "index.weex.js?Page=Tab_user",
+        "visibility": "hidden"
+      }     
+    ]
+  }
+}

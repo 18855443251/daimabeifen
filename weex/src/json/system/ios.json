@@ -1,0 +1,12 @@
+{
+  "$schema": "version_schema.json",
+  "data": [
+    {
+      "versionCode": "2.0.0",
+      "versionName": "2.0.0",
+      "update": "1",
+      "url": "https://itunes.apple.com/cn/app/id997661895",
+      "describe": "发现新版本，强烈建议更新"
+    }
+  ]
+}

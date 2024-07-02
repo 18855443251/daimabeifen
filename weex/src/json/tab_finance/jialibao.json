@@ -1,0 +1,25 @@
+{
+  "$schema": "ad_schema.json",
+  "data": [
+    {
+      "url": "",
+      "src": "./imgs/tab_finance/jialibao/banner1.png",
+      "name": "加力宝"
+    },
+    {
+      "url": "",
+      "src": "./imgs/tab_finance/jialibao/banner2.png",
+      "name": "加利定存"
+    },
+    {
+      "url": "",
+      "src": "./imgs/tab_finance/jialibao/banner3.png",
+      "name": "大额存单"
+    },
+    {
+      "url": "",
+      "src": "./imgs/tab_finance/jialibao/banner4.png",
+      "name": "超级定存"
+    }
+  ]
+}

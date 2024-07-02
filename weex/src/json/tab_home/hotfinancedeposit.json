@@ -1,0 +1,15 @@
+{
+  "$schema": "hot_finance_schema.json",
+  "data": [
+    {
+      "finance_type": "加利宝",
+      "rate": "5.83",
+      "des": "兼顾灵活与收益"
+    },
+    {
+      "finance_type": "定期理财",
+      "rate": "4.26",
+      "des": "坐享高收益"
+    }
+  ]
+}

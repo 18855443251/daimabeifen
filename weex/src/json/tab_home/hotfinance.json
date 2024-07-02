@@ -1,0 +1,24 @@
+{
+  "$schema": "hot_finance_schema.json",
+  "data": {
+    "finance_type": "锦鲤鱼.月尊享1号理财产品",
+    "rate": "5.12",
+    "day": "365",
+    "amount": "5",
+    "template": "1300",
+    "financeList": [
+      {
+        "url": "main.bankSearch",
+        "finance_type": "行号查询",
+        "rate": "4.56",
+        "des": "一键查询，转账好帮手"
+      },
+      {
+        "url": "main.depositCerBuy",
+        "finance_type": "存款利率",
+        "rate": "4.35",
+        "des": "利率秒知道，您的财富管家"
+      }
+    ]
+  }
+}

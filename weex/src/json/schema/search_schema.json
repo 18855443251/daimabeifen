@@ -1,0 +1,35 @@
+{
+  "type": "array",
+  "title": "搜索管理",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "title": "搜索功能",
+    "headerTemplate": "{{ self.name }}",
+    "properties": {
+      "name": {
+        "title": "功能名称",
+        "type": "string"
+      },
+      "url": {
+        "title": "URL",
+        "description": "需和场景名对应",
+        "type": "string"
+      },
+      "key": {
+        "type": "string",
+        "title": "关键字",
+        "description": "对应搜索的关键字"
+      },
+      "platform": {
+        "type": "string",
+        "title": "平台",
+        "enum": ["all", "android", "ios"],
+        "options": {
+          "enum_titles": ["全部", "安卓", "苹果"]
+        }
+      }
+    },
+    "required": ["platform"]
+  }
+}

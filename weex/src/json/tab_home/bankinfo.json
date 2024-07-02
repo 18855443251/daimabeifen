@@ -1,0 +1,17 @@
+{
+    "$schema": "bankinfo_schema.json",
+    "data":[{
+                "url": "main.newmain",
+                "src": "./imgs/bankinfo/service.png",
+                "name": "服务自费",
+                "des":"最新资费详情"
+            },
+            {
+                "url": "main.transferaccouts",
+                "src": "./imgs/bankinfo/complaints.png",
+                "name": "投诉处理",
+                "des":"我们重视您的建议"
+            }
+           
+        ]
+    }

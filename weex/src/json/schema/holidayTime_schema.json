@@ -1,0 +1,28 @@
+{
+  "type": "array",
+  "title": "节日主题",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "title": "节日",
+    "headerTemplate": "{{ self.title }}",
+    "properties": {
+      "title": {
+        "title": "节日名称",
+        "type": "string"
+      },
+      "type": {
+        "title": "标识",
+        "type": "string"
+      },
+      "start": {
+        "type": "string",
+        "title": "开始时间"
+      },
+      "end": {
+        "type": "string",
+        "title": "结束时间"
+      }
+    }
+  }
+}

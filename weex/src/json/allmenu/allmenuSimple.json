@@ -1,0 +1,315 @@
+{
+  "$schema": "all_menu_schema.json",
+  "data": {
+    "columns": "4",
+    "imgSize": {
+      "imgWidth": "66",
+      "imgHeight": "66"
+    },
+    "paddingTop": "45",
+    "allmenuList": [
+      {
+        "title": "账户查询",
+        "menuList": [
+          {
+            "name": "账户余额",
+            "url": "main.AccountQuery",
+            "src": "./imgs/allmenu/simple/zhanghuyue@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "交易明细",
+            "url": "main.transactionDetails",
+            "src": "./imgs/allmenu/simple/jiaoyimingxi@3x.png",
+            "platform": "all",
+            "isNotRecord": true
+          },
+          {
+            "name": "定期账户",
+            "url": "main.regular",
+            "src": "./imgs/allmenu/simple/dingqizhanghu@3x.png",
+            "platform": "all",
+            "isNotRecord": true
+          },
+          {
+            "name": "贷款账户",
+            "url": "main.loan",
+            "src": "./imgs/allmenu/simple/daikuanzhanghu@3x.png",
+            "platform": "all",
+            "isNotRecord": true
+          },
+          {
+            "name": "资产总览",
+            "url": "main.property",
+            "src": "./imgs/allmenu/simple/zichanzonglan@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "企业名片",
+            "url": "main.enterprisesCard",
+            "src": "./imgs/allmenu/simple/qiyemingpian@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "转账汇款",
+        "menuList": [
+          {
+            "name": "转账主页",
+            "url": "main.Transfer",
+            "src": "./imgs/allmenu/simple/zhuanzhangzhuye@3x.png",
+            "platform": "all",
+            "isNotRecord": true
+          },
+          {
+            "name": "账号转账",
+            "url": "main.PayerInfo",
+            "src": "./imgs/allmenu/simple/zhanghaozhuanzhang@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "转账记录查询",
+            "url": "main.RecordList",
+            "src": "./imgs/allmenu/simple/zhuanzhangjilu@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "收款人名册",
+            "url": "main.transferBook",
+            "src": "./imgs/allmenu/simple/shoukuanrenmingce@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "扫一扫转账",
+            "url": "saoyisao",
+            "src": "./imgs/allmenu/simple/saoyisaozhuanzhang@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+       {
+        "title": "代发服务",
+        "menuList": [
+          {
+            "name": "代发工资",
+            "url": "main.payroll",
+            "src": "./imgs/allmenu/simple/daifagongzi@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "代发名册",
+            "url": "main.myPayrollRegister",
+            "src": "./imgs/allmenu/simple/shoukuanren@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "代发工资查询",
+            "url": "main.myquery",
+            "src": "./imgs/allmenu/simple/daifagongzichaxun@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "银企对账",
+        "menuList": [
+          {
+            "name": "对账",
+            "url": "main.reconciliation",
+            "src": "./imgs/allmenu/simple/duizhang@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "已对账查询",
+            "url": "main.alreadyReconciliation",
+            "src": "./imgs/allmenu/simple/yiduizhangchaxun@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "电子票据",
+        "menuList": [
+          {
+            "name": "持票查询",
+            "url": "main.ticketEnquiry",
+            "src": "./imgs/allmenu/simple/chipiaochaxun@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "票据流转查询",
+            "url": "main.flowEnquiry",
+            "src": "./imgs/allmenu/simple/piaojuliuzhuanchaxun@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "提示收票",
+            "url": "main.electronicBills",
+            "src": "./imgs/allmenu/simple/tishishoupiao@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "背书转让",
+            "url": "main.transfer",
+            "src": "./imgs/allmenu/simple/beishuzhuanrang@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "贴现",
+            "url": "main.discount",
+            "src": "./imgs/allmenu/simple/tiexian@3x.png",
+            "platform": "all"
+          },
+           {
+            "name": "票据签收",
+            "url": "main.sign",
+            "src": "./imgs/allmenu/simple/piaojuqianshou@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "国际业务",
+        "menuList": [
+          {
+            "name": "实时结汇",
+            "url": "main.actualExchange",
+            "src": "./imgs/allmenu/simple/shishijiehui@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "业务综合查询",
+            "url": "main.integratedQuery",
+            "src": "./imgs/allmenu/simple/yewuzonghechaxun@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "安全设置",
+        "menuList": [
+          {
+            "name": "登录密码修改",
+            "url": "main.ModifyPwd",
+            "src": "./imgs/allmenu/simple/denglumima@3x.png",
+            "platform": "all",
+            "isNotRecord": true
+          },
+          {
+            "name": "指纹/面容登录",
+            "url": "main.securitySetting",
+            "src": "./imgs/allmenu/simple/zhiwenmianrong@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "登录记录查询",
+            "url": "main.loginlog",
+            "src": "./imgs/allmenu/simple/denglujilu@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "云盾管理",
+            "url": "main.yundunManage",
+            "src": "./imgs/allmenu/simple/yundunguanli@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "账号保护",
+            "url": "main.securitySetting",
+            "src": "./imgs/allmenu/simple/zhanggaobaohu@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "预约服务",
+        "menuList": [
+          {
+            "name": "预约购买支票",
+            "url": "main.ReservationPurchaseCheckBuy",
+            "src": "./imgs/allmenu/simple/yuyuegoumaizhipiao@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "预约购票查询",
+            "url": "main.ReservationPurchaseCheckQuery",
+            "src": "./imgs/allmenu/simple/yuyuegoumaizhipiaochaxun@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "网点预约",
+            "url": "main.dotReservation",
+            "src": "./imgs/allmenu/simple/wangdianyuyue@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "附近网点/ATM",
+            "url": "main.srroundAmap",
+            "src": "./imgs/allmenu/simple/fujinwangdianatm@3x.png",
+            "platform": "all"
+          }
+        ]
+      },
+      {
+        "title": "其他服务",
+        "menuList": [
+          {
+            "name": "网点查询",
+            "url": "main.NetworkQuery",
+            "src": "./imgs/allmenu/simple/wangdianchaxun@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "银行公告",
+            "url": "main.bankNotice",
+            "src": "./imgs/allmenu/simple/yinhanggonggao@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "存款利率",
+            "url": "main.deposit",
+            "src": "./imgs/allmenu/simple/cunkuanlilv@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "外汇牌价",
+            "url": "main.foreignExchangeRate",
+            "src": "./imgs/allmenu/simple/waihuipaijia@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "操作员信息",
+            "url": "main.operatorInfo",
+            "src": "./imgs/allmenu/simple/caozuoyuanxinxi@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "存款计算器",
+            "url": "main.depositCalculator",
+            "src": "./imgs/allmenu/simple/cunkuanjisuanqi@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "贷款计算器",
+            "url": "main.loanCalculator",
+            "src": "./imgs/allmenu/simple/daikuanjisuanqi@3x.png",
+            "platform": "all"
+          },
+          {
+            "name": "行号查询",
+            "url": "main.bankSearch",
+            "src": "./imgs/allmenu/simple/hanghaochaxun@3x.png",
+            "platform": "all"
+          },     
+          {
+            "name": "关于APP",
+            "url": "main.aboutApp",
+            "src": "./imgs/allmenu/simple/aboutapp@3x.png",
+            "platform": "all"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "layout_schema.json",
+  "data": [
+    {
+      "type": "MYFINANCE",
+      "url": "",
+      "name": "我的投资"
+    },
+    {
+      "type": "MENU",
+      "url": "tab_finance/menu.json",
+      "name": "菜单"
+    },
+    {
+      "type": "HOTDEPOSIT",
+      "url": "tab_finance/hotdeposit.json",
+      "name": "热销存款"
+    },
+    {
+      "type": "FUND",
+      "url": "tab_finance/fund.json",
+      "name": "基金投资"
+    },
+    {
+      "type": "JIALIBAO",
+      "url": "tab_finance/jialibao.json",
+      "name": "加利宝"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "title": "主题切换",
+  "properties": {
+    "theme": {
+      "type": "string",
+      "title": "主题切换",
+      "enum": [
+        "standard",
+        "newYears",
+        "spring",
+        "valentine",
+        "labor",
+        "dragonBoat"
+      ],
+      "options": {
+        "enum_titles": [
+          "标准版",
+          "元旦版",
+          "新春版",
+          "情人节版",
+          "劳动节版",
+          "端午节版"
+        ]
+      }
+    }
+  },
+  "required": ["theme"]
+}

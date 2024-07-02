@@ -1,0 +1,40 @@
+{
+  "$schema": "layout_schema.json",
+  "data": [
+    {
+      "type": "TITLE",
+      "url": "tab_home_color/titlebar/titlebarBlue.json",
+      "name": "标题"
+    },
+    {
+      "type": "HOTMENU",
+      "url": "tab_home_color/hotmenu/hotmenuBlue.json",
+      "name": "热门菜单"
+    },
+    {
+      "type": "MENU",
+      "url": "tab_home/menu.json",
+      "name": "菜单"
+    },
+    {
+      "type": "AD",
+      "url": "tab_home/ad.json",
+      "name": "广告"
+    },
+    {
+      "type": "NOTICE",
+      "url": "tab_home_color/notice/noticeBlue.json",
+      "name": "公告"
+    },
+    {
+      "type": "HOTFINANCE",
+      "url": "tab_home/hotfinance.json",
+      "name": "特色理财"
+    },
+    {
+      "type": "FXRATE",
+      "url": "tab_home/fxrate.json",
+      "name": "外汇查询"
+    }
+  ]
+}

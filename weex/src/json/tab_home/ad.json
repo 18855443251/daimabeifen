@@ -1,0 +1,25 @@
+{
+  "$schema": "ad_schema.json",
+  "data": [
+	  {
+      "name": "智能优选",
+      "src": "./imgs/tab_home/ad/banner1@3x.png",
+      "url": "main.phonetransfer"
+    },
+    {
+      "name": "智能优选",
+      "src": "./imgs/tab_home/ad/banner1@3x.png",
+      "url": "main.phonetransfer"
+    },
+    {
+      "name": "智能优选",
+      "src": "./imgs/tab_home/ad/banner1@3x.png",
+      "url": "main.phonetransfer"
+    },
+    {
+      "name": "智能优选",
+      "src": "./imgs/tab_home/ad/banner1@3x.png",
+      "url": "main.phonetransfer"
+    }
+  ]
+}

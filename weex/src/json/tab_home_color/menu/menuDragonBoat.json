@@ -1,0 +1,53 @@
+{
+  "$schema": "img_menu_schema.json",
+  "data": {
+    "columns": "4",
+    "imgSize": {
+      "imgWidth": "54",
+      "imgHeight": "54"
+    },
+    "menuList": [
+      {
+        "name": "交易明细",
+        "url": "main.transactionDetails",
+        "src": "./imgs/allmenu/theme/jiaoyimingxi@3x.png"
+      },
+      {
+        "name": "代发工资",
+        "url": "main.payroll",
+        "src": "./imgs/allmenu/theme/daifagongzi@3x.png"
+      },
+      {
+        "name": "资产总览",
+        "url": "main.property",
+        "src": "./imgs/allmenu/theme/zichanzonglan@3x.png"
+      },
+      {
+        "name": "网点查询",
+        "url": "main.NetworkQuery",
+        "src": "./imgs/allmenu/theme/wangdianchaxun@3x.png"
+      },
+      {
+        "name": "实时结汇",
+        "url": "main.actualExchange",
+        "src": "./imgs/allmenu/theme/shishijiehui@3x.png"
+      },
+      {
+        "name": "持票查询",
+        "url": "main.ticketEnquiry",
+        "src": "./imgs/allmenu/theme/chipiaochaxun@3x.png"
+      },
+      {
+        "name": "票据签收",
+        "url": "main.sign",
+        "src": "./imgs/allmenu/theme/piaojuqianshou@3x.png"
+      },
+      {
+        "name": "更多功能",
+        "url": "main.allmenu",
+        "src": "./imgs/allmenu/theme/more@3x.png",
+        "isNotRecord": true
+      }
+    ]
+  }
+}

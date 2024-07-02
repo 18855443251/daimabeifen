@@ -1,0 +1,61 @@
+{
+  "$schema": "img_menu_schema.json",
+  "data": {
+    "menuList": [
+      {
+        "url": "main.Transfer",
+        "src": "imgs/tab_business/menu/tzlc@3x.png",
+        "name": "转账汇款"
+      },
+      {
+        "url": "main.RecordList",
+        "src": "imgs/tab_business/menu/wydk@3x.png",
+        "name": "转账记录查询"
+      },
+      {
+        "url": "main.transactionDetails",
+        "src": "imgs/tab_business/menu/zzhk@3x.png",
+        "name": "交易明细"
+      }
+    ],
+    "secondList": [
+      {
+        "url": "main.AccountQuery",
+        "src": "imgs/tab_business/menu/shjf@3x.png",
+        "name": "账户余额"
+      },
+      {
+        "url": "main.checkSimple",
+        "src": "imgs/tab_business/menu/xyk@3x.png",
+        "name": "审核"
+      },
+      {
+        "url": "main.discount",
+        "src": "imgs/tab_business/menu/jlb@3x.png",
+        "name": "贴现"
+      }
+    ],
+    "thirdList": [
+      {
+        "mark": "1",
+        "url": "main.property",
+        "src": "imgs/tab_business/menu/wdzc@3x.png",
+        "name": "资产总览"
+      },
+      {
+        "mark": "2",
+        "url": "main.allmenu",
+        "src": "imgs/tab_business/menu/gdjc@3x.png",
+        "name": "更多功能"
+      }
+    ],
+    "bgImg": "",
+    "columns": 5,
+    "imgSize": {
+      "imgWidth": 60,
+      "imgHeight": 60
+    },
+    "fontSize": 24,
+    "fontColor": "#000"
+  }
+}

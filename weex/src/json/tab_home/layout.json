@@ -1,0 +1,35 @@
+{
+  "$schema": "layout_schema.json",
+  "data": [
+    {
+      "type": "MENU",
+      "url": "tab_home/menu.json",
+      "name": "热门菜单"
+    },    
+    {
+      "type": "AD",
+      "url": "tab_home/ad.json",
+      "name": "广告"
+    },
+    {
+      "type": "NOTICE",
+      "url": "tab_home/notice.json",
+      "name": "通知"
+    },
+    {
+      "type": "RATE",
+      "url": "tab_home/rate.json",
+      "name": "利率"
+    },
+    {
+      "type": "HOTFINANCE",
+      "url": "tab_home/hotfinance.json",
+      "name": "特色理财"
+    },
+    {
+      "type": "FXRATE",
+      "url": "tab_home/fxrate.json",
+      "name": "特色理财"
+    }
+  ]
+}

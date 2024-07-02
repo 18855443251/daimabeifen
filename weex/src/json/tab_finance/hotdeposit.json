@@ -1,0 +1,17 @@
+{
+  "$schema": "hot_finance_schema.json",
+  "data": [
+    {
+      "url": "main.depositCerList",
+      "src": "./imgs/tab_finance/deposit/largeprofit.png",
+      "name": "大额存单",
+      "description": "高收益/高回报"
+    },
+    {
+      "url": "main.depositSuperBuy",
+      "src": "./imgs/tab_finance/deposit/fixeddeposit.png",
+      "name": "超级定存",
+      "description": "安心存 安心收"
+    }
+  ]
+}
