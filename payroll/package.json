@@ -1,0 +1,67 @@
+{
+  "name": "madp2.0",
+  "version": "1.1.0",
+  "description": "madp2.0 App",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production --config build/webpack.prod.js",
+    "dev": "webpack --mode=development --watch --config build/webpack.prod.js",
+    "prod": "webpack --mode=production --watch --config build/webpack.prod.js",
+    "serve": "webpack-dev-server --config build/webpack.dev.js"
+  },
+  "keywords": [
+    "weex",
+    "vue",
+    "android",
+    "ios"
+  ],
+  "engines": {
+    "node": ">=8.9"
+  },
+  "author": "csii_mobile_pro_dev_center",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "vuex-router-sync": "^5.0.0",
+    "weex-droplet-ui": "^1.0.0-alpha.101",
+    "weex-ui": "^0.6.7",
+    "weex-vue-render": "^1.0.33"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-component": "^1.1.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "copy-webpack-plugin": "^4.6.0",
+    "css-loader": "^1.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-plugin-px2rem": "^0.7.0",
+    "postcss-plugin-weex": "^0.1.7",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "vue-loader": "^15.4.2",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.24.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10",
+    "webpack-merge": "^4.1.4",
+    "webpack-uglify-parallel": "^0.1.4",
+    "weex-loader": "^0.7.12",
+    "weex-vue-precompiler": "^0.1.25"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}
