@@ -1,0 +1,11 @@
+{
+    "data": {
+      "bgSrc": "./imgs/tab_home_color/titlebar/dragonBoat/bg_top.png",
+      "otherImg": {
+        "leftSrc": "./imgs/tab_home_color/titlebar/dragonBoat/scanning.png",
+        "rightSrc1": "./imgs/tab_home_color/titlebar/dragonBoat/message.png",
+        "rightSrc2": "./imgs/tab_home_color/titlebar/dragonBoat/customerservice.png"
+      }
+    }
+  }
+  

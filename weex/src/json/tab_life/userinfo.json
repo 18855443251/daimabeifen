@@ -1,0 +1,18 @@
+{
+    "$schema": "bankinfo_schema.json",
+    "data": [
+         {
+            "url": "main.creditIntegral",
+            "src": "./imgs/tab_life/userinfo/jifen@2x.png",
+            "name":"我的积分",
+            "des":"兑换你想要的~"
+        },
+        {
+            "url": "main.userinfo",
+            "src": "./imgs/tab_life/userinfo/xinxi@2x.png",
+            "name":"个人信息",
+            "des":"美好的都关于你"
+        }
+    ]
+    
+}

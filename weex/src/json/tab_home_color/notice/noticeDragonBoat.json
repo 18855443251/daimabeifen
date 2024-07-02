@@ -1,0 +1,25 @@
+{
+  "$schema": "notice_schema.json",
+  "data": {
+    "src": "./imgs/tab_home_color/notice/dragonBoat/noticeLeft.png",
+    "rightSrc": "./imgs/tab_home_color/notice/dragonBoat/noticeRight.png",
+    "imgSize": {
+      "imgWidth": "61",
+      "imgHeight": "84"
+    },
+    "list": [
+      {
+        "title": "美团银行银行新版手机银行上线啦！",
+        "url": ""
+      },
+      {
+        "title": "美团银行银行新版手机银行上线啦！",
+        "url": ""
+      },
+      {
+        "title": "美团银行银行新版手机银行上线啦！",
+        "url": ""
+      }
+    ]
+  }
+}

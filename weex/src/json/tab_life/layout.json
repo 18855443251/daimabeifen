@@ -1,0 +1,25 @@
+{
+  "$schema": "layout_schema.json",
+  "data": [
+    {
+      "type": "AD",
+      "url": "tab_life/ad.json",
+      "name": "广告"
+    },
+    {
+      "type": "USERINFO",
+      "url": "tab_life/userinfo.json",
+      "name": "用户信息"
+    },
+    {
+      "type": "LIFEMENU",
+      "url": "tab_life/menulife.json",
+      "name": "菜单"
+    },
+    {
+      "type": "LIFE",
+      "url": "tab_life/life.json",
+      "name": "专属推荐"
+    }
+  ]
+}

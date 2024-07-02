@@ -1,0 +1,25 @@
+{
+  "$schema": "ad_schema.json",
+  "data": [
+    {
+      "name": "推荐1",
+      "src": "./imgs/tab_life/life/banner1.png",
+      "url": ""
+    },
+    {
+      "name": "推荐2",
+      "src": "./imgs/tab_life/life/banner2.png",
+      "url": ""
+    },
+    {
+      "name": "推荐3",
+      "src": "./imgs/tab_life/life/banner3.png",
+      "url": ""
+    },
+    {
+      "name": "推荐4",
+      "src": "./imgs/tab_life/life/banner4.png",
+      "url": ""
+    }
+  ]
+}

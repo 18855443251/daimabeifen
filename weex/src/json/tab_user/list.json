@@ -1,0 +1,25 @@
+{
+  "$schema": "list_schema.json", 
+  "data": [
+    {
+      "name": "安全设置",
+      "src": "./imgs/tab_user/menu/safe@3x.png",
+      "url": "main.securitySetting"
+    },
+    {
+      "name": "主题设置",
+      "src": "./imgs/tab_user/menu/huanfu.png",
+      "url": "main.themeSetting"
+    },
+    {
+      "name": "常见问题",
+      "src": "./imgs/tab_user/menu/problem@3x.png",
+      "url": "main.frequentlyAskedQuestion"
+    },
+    {
+      "name": "关于APP",
+      "src": "./imgs/tab_user/menu/aboutapp@3x.png",
+      "url": "main.aboutApp"
+    }
+  ]
+}

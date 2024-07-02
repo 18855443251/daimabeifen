@@ -1,0 +1,29 @@
+{
+  "$schema": "menu_schema.json",
+  "data": {
+    "menuList": [
+      {
+        "url": "main.myaccount",
+        "src": "./imgs/tab_user/menu/wealth.png",
+        "name": "我的账户",
+        "isNotRecord": true
+      },
+      {
+        "url": "main.minefinancial",
+        "src": "./imgs/tab_user/menu/order.png",
+        "name": "我的理财"
+      },
+      {
+        "url": "main.loanMy",
+        "src": "./imgs/tab_user/menu/loan.png",
+        "name": "我的贷款"
+      },
+      {
+        "url": "main.financeCalendar",
+        "src": "./imgs/tab_user/menu/remind.png",
+        "name": "智能提醒"
+      }
+    ],
+    "columns": 4
+  }
+}

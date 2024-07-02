@@ -1,0 +1,21 @@
+{
+  "$schema": "rate_schema.json",
+  "data": [
+    {
+      "url": "main.finance",
+      "src": "./imgs/tab_home_color/ratemenu/cyanBlue/financial.png",
+      "name": "我要理财",
+      "color": "#33b189",
+      "rate": "----%",
+      "des": "年化收益率可达"
+    },
+    {
+      "url": "main.loan",
+      "src": "./imgs/tab_home_color/ratemenu/cyanBlue/loan.png",
+      "name": "我要贷款",
+      "color": "#33b189",
+      "rate": "1.2元",
+      "des": "每万元日息低至"
+    }
+  ]
+}

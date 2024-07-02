@@ -1,0 +1,30 @@
+{
+  "$schema": "layout_schema.json",
+  "data": [
+    {
+      "type": "LOGININFO",
+      "url": "",
+      "name": "用户信息"
+    },
+    {
+      "type": "MENU",
+      "url": "tab_user/menu.json",
+      "name": "菜单"
+    },
+    {
+      "type": "FINANCE",
+      "url": "tab_user/homepage.json",
+      "name": "我的财富"
+    },
+    {
+      "type": "LIST",
+      "url": "tab_user/list.json",
+      "name": "功能列表"
+    },
+    {
+      "type": "SIGNOUT",
+      "url": "",
+      "name": "退出登录"
+    }
+  ]
+}

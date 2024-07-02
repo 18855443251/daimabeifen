@@ -1,0 +1,20 @@
+{
+  "$schema": "ad_schema.json",
+  "data": [
+    {
+      "name": "ETC",
+      "src": "./imgs/tab_life/ad/banner1.png",
+      "url": ""
+    },
+    {
+      "name": "购车分期",
+      "src": "./imgs/tab_life/ad/banner2.png",
+      "url": ""
+    },
+    {
+      "name": "一码通",
+      "src": "./imgs/tab_life/ad/banner3.png",
+      "url": ""
+    }
+  ]
+}

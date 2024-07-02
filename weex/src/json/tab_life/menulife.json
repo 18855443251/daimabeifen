@@ -1,0 +1,44 @@
+{
+  "$schema": "menu_schema.json",
+  "data": {
+    "columns": "4",
+    "menuList": [
+      {
+        "name": "生活缴费",
+        "url": "main.lifepay",
+        "src": "./imgs/tab_life/menulife/lifepaycost.png",
+        "platform": "all"
+      },
+      {
+        "name": "话费充值",
+        "url": "main.payTelecom",
+        "src": "./imgs/tab_life/menulife/telephonecharges.png",
+        "platform": "all"
+      },
+      {
+        "name": "医院挂号",
+        "url": "main.hospital",
+        "src": "./imgs/tab_life/menulife/hospital.png",
+        "platform": "all"
+      },
+      {
+        "name": "社保缴费",
+        "url": "main.socialpay",
+        "src": "./imgs/tab_life/menulife/accumulationfund.png",
+        "platform": "no"
+      },
+      {
+        "name": "公积金查询",
+        "url": "main.accumulationsearch",
+        "src": "./imgs/tab_life/menulife/provident-fund.png",
+        "platform": "all"
+      },
+      {
+        "name": "社保查询",
+        "url": "main.socialsearch",
+        "src": "./imgs/tab_life/menulife/socialsecurity.png",
+        "platform": "all"
+      }
+    ]
+  }
+}
